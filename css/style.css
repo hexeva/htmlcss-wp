@@ -27,8 +27,11 @@ img{
 
 .overlay{
     position: absolute;
+    height: 100%;
+    width: 100%;
     top: 0;
     left: 0;
+    background-color:rgba(203, 188, 182, 1));
 }
 
 /* END COMMON */
@@ -47,14 +50,23 @@ img{
 
   .logo{
       width: 15%;
-      
   }
 
+  /* banner */
+
   .banner{
-      height: 300px;
-      background-color: #e1d67a;
+      height: 550px;
       margin: 25px 0;
+      border-radius: 10px;
+      position: relative;
+      background-image:url(../img/banner.jpg);
+      background-repeat:no-repeat;
+      background-size:100%; 
+      background-position:50%;
+     
   }
+  /* end banner */
+
 
   /* nav */
 
@@ -80,10 +92,9 @@ img{
   }
   /* end nav*/
 
-  /* banner */
+  
 
 
-  /* end banner */
 
 
 
