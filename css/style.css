@@ -140,25 +140,25 @@ main{
   }
 
   .col.c{
-      width:48%;
+      width:50%;
       height:500px;
-      margin-right: 1%;
-      margin-left: 1%;
+      margin-right: 2%;
+      margin-left: 2%;
   }
 
   .col.l{
-      width: 25%;
+      width: 23%;
       height: 500px;
   }
 
   .col.r{
-    width: 25%;
+    width: 23%;
     height: 500px;
   }
 
   .imgcol{
       height: 250px;
-      border-radius: 10px;
+      border-radius: 15px;
       overflow: hidden;
       position: relative;
   }
@@ -169,7 +169,7 @@ main{
       object-fit: cover;
   }
 
-  /* end main */
+  /* end MAIN */
 
   /* footer */
   footer{
