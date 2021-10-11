@@ -179,13 +179,11 @@ main{
 
   .sign{
       width: 20%;
-      height: 100px;
       margin: auto;
   }
 
   .sign span{
-      width: 50px;
-      height: 50px;
+      font-size: 20px;
       color: red;
   }
   /* end footer */
