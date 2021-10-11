@@ -141,19 +141,13 @@ main{
 
   .col.c{
       width:50%;
-      height:500px;
       margin-right: 2%;
       margin-left: 2%;
   }
 
-  .col.l{
-      width: 23%;
-      height: 500px;
-  }
 
-  .col.r{
+  .col.side{
     width: 23%;
-    height: 500px;
   }
 
   .imgcol{
@@ -169,6 +163,13 @@ main{
       object-fit: cover;
   }
 
+    .col-description h4{
+        padding:20px 0;
+  }
+
+  .col-description p{
+      color: #c1c1c1;
+  }
   /* end MAIN */
 
   /* footer */
