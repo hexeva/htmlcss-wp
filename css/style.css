@@ -31,7 +31,7 @@ img{
     width: 100%;
     top: 0;
     left: 0;
-    background-color:rgba(203, 188, 182, 1));
+    background-color:rgba(0, 0, 0, 0.2);
 }
 
 /* END COMMON */
@@ -63,7 +63,25 @@ img{
       background-repeat:no-repeat;
       background-size:100%; 
       background-position:50%;
+      overflow: hidden;
      
+  }
+
+  .banner-text{
+      position: absolute;
+      left: 50px;
+      bottom: 60px;
+      width: 50%;
+  }
+
+  .banner-text h2{
+      font-size: 35px;
+      color: white;
+      vertical-align: 10px;
+  }
+
+  .banner-text p{
+      color: white;
   }
   /* end banner */
 
