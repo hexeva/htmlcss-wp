@@ -174,8 +174,12 @@ main{
 
   /* footer */
   footer{
-      background-color: #8801fe;
       height: 50px;
       margin-top: 5px;
+  }
+
+  .sign{
+      width: 20%;
+      margin: auto;
   }
   /* end footer */
