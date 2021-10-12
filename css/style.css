@@ -77,8 +77,8 @@ img{
   .banner-text h2{
       font-size: 35px;
       color: white;
-      vertical-align: 10px;
-      font-family: 'Arial Narrow Bold' ;
+      line-height: 40px;
+     
   }
 
   .banner-text p{
