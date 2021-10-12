@@ -9,7 +9,7 @@
 /* COMMON */
 
 body{
-    font-family:Montserrat;arial
+    font-family:Montserrat;
 }
 
 .clearfix::after{
@@ -175,11 +175,12 @@ main{
   /* footer */
   footer{
       margin-top: 5px;
+      padding-bottom: 10px;
   }
 
   .sign{
-      width: 20%;
-      margin: auto;
+      text-align: center;
+
   }
 
   .sign span{
